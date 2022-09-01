@@ -7,7 +7,7 @@
 <h2> Skills & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 <div>
-
+ <a href= '' target="_blank"> <img width ='40px' height='40px' align= 'right' src ='https://logodix.com/logo/1138067.png'> </a> &nbsp;
 <a href= 'https://docs.oracle.com/en/java/' > <img width ='40px' align= 'right' height='40px' src ='https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png'> </a> &nbsp;
 <a href="https://docs.python.org/3/"> <img width ='40px' align= 'right' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a> &nbsp;
 <a href= 'https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-170' target="_blank"> <img width ='40px' align= 'right' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a> <br><br><div>
