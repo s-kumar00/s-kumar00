@@ -8,7 +8,7 @@
 <p align="center"> <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 150px height=150px> </p>
 
 <!--- Skills --->
-<h2> Skills & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<!-- <h2> Skills & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 <div>
 <a href= 'https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-170' target="_blank"> <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a> &nbsp;
@@ -24,24 +24,24 @@
 <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 </div>
 
-<br><br><br>
+<br><br><br> -->
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height=50px> </h2>
 
 <h3>Social Links: </h3>
-<a href = 'https://www.linkedin.com/in/sachin-gupta-4aa151222/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp;
+<a href = 'https://www.linkedin.com/in/sikandar-kumar-b1a961223/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp;
 <a href="https://www.facebook.com/profile.php?id=100011591354750"> <img align="center" src="https://img.icons8.com/fluency/344/facebook-new.png" width="40px"> </a> &nbsp;
 <a href = 'https://www.instagram.com/_.sachin_.gupta/?hl=en'> <img width = '40px' align= 'center' src="https://img.icons8.com/fluency/344/instagram-new.png"/></a> &nbsp;
 <a href="https://twitter.com/sachin_gupta99"> <img align="center" src="https://img.icons8.com/color/344/twitter.png" width="40px"> </a> &nbsp;
 <br><br>
 
 <h3>Coding Platform Links: </h3>
-<a href = 'https://leetcode.com/sachin_gupta2007/'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/141px-LeetCode_logo_white_no_text.svg.png?20200120234911"/></a> &nbsp;
-<a href = "https://www.hackerrank.com/sachin_gupta99"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="45px"></a> &nbsp;
+<a href = 'https://leetcode.com/sikandarsahilkumar/'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/141px-LeetCode_logo_white_no_text.svg.png?20200120234911"/></a> &nbsp;
+<a href = "https://www.hackerrank.com/dashboard"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="45px"></a> &nbsp;
 
 <br>
 
-<h2> My GitHub Stats <img src="https://media2.giphy.com/media/CpSl7FVQfShIdDRcVs/giphy.gif?cid=ecf05e473z73wmi2kvbh4m65is94yyexhr12skct7n9l4m63&rid=giphy.gif&ct=g" width="50px"> </h2>
+<!-- <h2> My GitHub Stats <img src="https://media2.giphy.com/media/CpSl7FVQfShIdDRcVs/giphy.gif?cid=ecf05e473z73wmi2kvbh4m65is94yyexhr12skct7n9l4m63&rid=giphy.gif&ct=g" width="50px"> </h2>
 
 <a href="https://github.com/sachin-gupta99/github-readme-stats"><img alt="Sachin Gupta Github Stats" src="https://github-readme-stats.vercel.app/api?username=sachin-gupta99&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/sachin-gupta99/github-readme-stats"><img alt="Sachin Gupta Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-gupta99&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -52,4 +52,4 @@
 
 <p align="center"><b> <a href="https://drive.google.com/file/d/148DLzxjqp839URK8ovbGiB-aMxqEhIaq/view?usp=sharing"> Download Resume </a> </b></p>
 
-<img src="https://cdn-icons.flaticon.com/png/512/512/premium/512716.png?token=exp=1657832306~hmac=c2d02938a93542e1d909a9ed9c2256ab" width="1100px" align="center" height="30px">
+<img src="https://cdn-icons.flaticon.com/png/512/512/premium/512716.png?token=exp=1657832306~hmac=c2d02938a93542e1d909a9ed9c2256ab" width="1100px" align="center" height="30px"> -->
