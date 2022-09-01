@@ -10,7 +10,7 @@
 <a href= 'https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-170' target="_blank"> <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a> &nbsp;
 <a href= 'https://docs.oracle.com/en/java/' > <img width ='40px' height='40px' src ='https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png'> </a> &nbsp;
 <a href="https://docs.python.org/3/"> <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a> <br><br><div>
- <img width="40%" align="left" alt="Github" src="https://cdn.dribbble.com/users/130603/screenshots/2679604/chapter1_800x600.gif"/>
+ <img width="40%" align="center" alt="Github" src="https://cdn.dribbble.com/users/130603/screenshots/2679604/chapter1_800x600.gif"/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img width ='40px' align= 'right' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a> 
 <a href= 'https://developer.mozilla.org/en-US/docs/Web/CSS'> <img width ='40px' align= 'right' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a> &nbsp;
 <a href= 'https://developer.mozilla.org/en-US/docs/Web/JavaScript' > <img width ='40px' align= 'right' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a> </div><br><br>
@@ -19,7 +19,7 @@
 <a href="https://www.mongodb.com/docs/manual"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mongodb_original_wordmark_logo_icon_146425.png" width="40px" align='right'> </a>
  
 </div>
-<br><br><br><br><br><br>
+<br><br>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height=50px> </h2>
 
