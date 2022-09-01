@@ -7,13 +7,14 @@
 <h2> Skills & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 <div>
+ <img width="40%" align="center" alt="Github" src="https://cdn.dribbble.com/users/130603/screenshots/2679604/chapter1_800x600.gif"/>
 <a href= 'https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-170' target="_blank"> <img width ='40px' align= 'right' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a> &nbsp;
 <a href= 'https://docs.oracle.com/en/java/' > <img width ='40px' align= 'right' height='40px' src ='https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png'> </a> &nbsp;
-<a href="https://docs.python.org/3/"> <img width ='40px' align= 'right' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a> <br><br><div>
- <img width="40%" align="center" alt="Github" src="https://cdn.dribbble.com/users/130603/screenshots/2679604/chapter1_800x600.gif"/>
+<a href="https://docs.python.org/3/"> <img width ='40px' align= 'right' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a> <br><br>
+<!--  <img width="40%" align="center" alt="Github" src="https://cdn.dribbble.com/users/130603/screenshots/2679604/chapter1_800x600.gif"/> -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img width ='40px' align= 'right' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a> 
 <a href= 'https://developer.mozilla.org/en-US/docs/Web/CSS'> <img width ='40px' align= 'right' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a> &nbsp;
-<a href= 'https://developer.mozilla.org/en-US/docs/Web/JavaScript' > <img width ='40px' align= 'right' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a> </div><br><br>
+<a href= 'https://developer.mozilla.org/en-US/docs/Web/JavaScript' > <img width ='40px' align= 'right' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a><br><br>
 <a href= 'https://git-scm.com/doc' > <img width ='40px' align='right' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a> &nbsp;
 <a href="https://nodejs.org/en/docs/" > <img src="https://img.icons8.com/color/344/nodejs.png" width="50px" align='right'> </a> &nbsp;
 <a href="https://www.mongodb.com/docs/manual"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mongodb_original_wordmark_logo_icon_146425.png" width="40px" align='right'> </a>
