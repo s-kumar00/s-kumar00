@@ -19,7 +19,7 @@
 <a href= 'https://git-scm.com/doc' > <img width ='40px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a> </div>
  <a href="https://nodejs.org/en/docs/" > <img src="https://img.icons8.com/color/344/nodejs.png" width="50px" align='right'> </a> &nbsp;
 <a href="https://www.mongodb.com/docs/manual"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mongodb_original_wordmark_logo_icon_146425.png" width="40px" align='right'> </a>&nbsp;
- <a href="https://nodejs.org/en/docs/" > <img src="https://academicwritingforstudents.com/wp-content/uploads/2020/12/MERN-stack.png" width="40px" align='right'> </a>
+ <a href="https://nodejs.org/en/docs/" > <img src="https://academicwritingforstudents.com/wp-content/uploads/2020/12/MERN-stack.png" width="60px" align='right'> </a>
  
 </div>
 <br><br>
