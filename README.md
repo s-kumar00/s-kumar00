@@ -21,7 +21,7 @@
 <a href="https://www.mongodb.com/docs/manual"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mongodb_original_wordmark_logo_icon_146425.png" width="40px" align='right'> </a>&nbsp;
  <a href="https://www.mongodb.com/languages/mern-stack-tutorial" > <img src="https://1.bp.blogspot.com/-x4UwTGBYQ-M/Xkve7oNEr7I/AAAAAAAAAAM/asbQgLAHy9U_t0nktaCbMZN0ac01y0CWACLcBGAsYHQ/w1200-h630-p-k-no-nu/139b757e13.png" width="60px" align='right'> </a>&nbsp;
  
-  <a href="" > <img src="https://www.freeiconspng.com/img/11367" width="40px" align='right'> </a>
+  <a href="" > <img src="https://i7.pngguru.com/preview/863/183/651/oracle-sql-developer-oracle-database-pl-sql-oracle-application-express-vector-sql-server-icon-thumbnail.jpg" width="40px" align='right'> </a>
  
 </div>
 <br><br>
