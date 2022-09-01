@@ -35,7 +35,7 @@
 <h3>Coding Platform Links: </h3>
 <a href = 'https://leetcode.com/sikandarsahilkumar/' target="_blank"> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/141px-LeetCode_logo_white_no_text.svg.png?20200120234911"/></a> &nbsp;
 <a href = "https://www.hackerrank.com/dashboard" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="45px"></a>
-<a href = "https://auth.geeksforgeeks.org/user/sikandarsahilkumar/practice" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="45px">
+<a href = "https://auth.geeksforgeeks.org/user/sikandarsahilkumar/practice" target="_blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20201201230906/outputonlinepngtools-100x100.png" width="45px">
 &nbsp;
 
 <br>
