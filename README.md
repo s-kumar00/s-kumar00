@@ -11,7 +11,7 @@
 <a href= 'https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-170' target="_blank"> <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a> &nbsp;
 <a href= 'https://docs.oracle.com/en/java/' > <img width ='40px' height='40px' src ='https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png'> </a> &nbsp;
 <a href="https://docs.python.org/3/"> <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a> &nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a> &nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a> <br>
 <a href= 'https://developer.mozilla.org/en-US/docs/Web/CSS'> <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a> &nbsp;
 <a href= 'https://developer.mozilla.org/en-US/docs/Web/JavaScript' > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a> &nbsp;
 <a href= 'https://git-scm.com/doc' > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a> &nbsp;
