@@ -31,13 +31,15 @@
 <h3>Social Links: </h3>
 <a href = 'https://www.linkedin.com/in/sikandar-kumar-b1a961223/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp;
 <a href="https://www.facebook.com/profile.php?id=100011591354750"> <img align="center" src="https://img.icons8.com/fluency/344/facebook-new.png" width="40px"> </a> &nbsp;
-<a href = 'https://www.instagram.com/_.sachin_.gupta/?hl=en'> <img width = '40px' align= 'center' src="https://img.icons8.com/fluency/344/instagram-new.png"/></a> &nbsp;
-<a href="https://twitter.com/sachin_gupta99"> <img align="center" src="https://img.icons8.com/color/344/twitter.png" width="40px"> </a> &nbsp;
-<br><br>
+<a href = 'https://www.instagram.com/sikku_a6/'> <img width = '40px' align= 'center' src="https://img.icons8.com/fluency/344/instagram-new.png"/></a> &nbsp;
+<!-- <a href="https://twitter.com/sachin_gupta99"> <img align="center" src="https://img.icons8.com/color/344/twitter.png" width="40px"> </a> &nbsp;
+<br><br> -->
 
 <h3>Coding Platform Links: </h3>
 <a href = 'https://leetcode.com/sikandarsahilkumar/'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/141px-LeetCode_logo_white_no_text.svg.png?20200120234911"/></a> &nbsp;
-<a href = "https://www.hackerrank.com/dashboard"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="45px"></a> &nbsp;
+<a href = "https://www.hackerrank.com/dashboard"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="45px"></a>
+<a href = "https://auth.geeksforgeeks.org/user/sikandarsahilkumar/practice"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="45px">
+&nbsp;
 
 <br>
 
