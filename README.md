@@ -15,7 +15,7 @@
   <img width="30%" align="center" alt="Github" src="https://cdn.dribbble.com/users/130603/screenshots/2679604/chapter1_800x600.gif"/>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img width ='40px' align= 'center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a> &nbsp;
 <a href= 'https://developer.mozilla.org/en-US/docs/Web/CSS'> <img width ='40px' align= 'center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a> &nbsp;
-<a href= 'https://developer.mozilla.org/en-US/docs/Web/JavaScript' > <img width ='40px' align= 'center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> 
+<a href= 'https://developer.mozilla.org/en-US/docs/Web/JavaScript' > <img width ='40px' align= 'center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> &nbsp;
 <a href= 'https://git-scm.com/doc' > <img width ='40px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a> </div>
  <a href="https://nodejs.org/en/docs/" > <img src="https://img.icons8.com/color/344/nodejs.png" width="50px" align='right'> </a> &nbsp;
 <a href="https://www.mongodb.com/docs/manual"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mongodb_original_wordmark_logo_icon_146425.png" width="40px" align='right'> </a>&nbsp;
