@@ -1,5 +1,6 @@
-!
-[68747470733a2f2f7777772e6c6561726e75706f6e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f4032782d426c6f672d4d756c74696d6f64616c2d4c6561726e696e672d416e696d6174696f6e2e676966](https://blog.commlabindia.com/wp-content/uploads/2019/07/animated-gifs-corporate-training.gif)
+![68747470733a2f2f7777772e6c6561726e75706f6e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f4032782d426c6f672d4d756c74696d6f64616c2d4c6561726e696e672d416e696d6174696f6e2e676966](https://blog.commlabindia.com/wp-content/uploads/2019/07/animated-gifs-corporate-training.gif)
+
+
 <h1 align="center">Hi <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="40px" height="40px">, I'm Sikandar Kumar</h1>
 
 
