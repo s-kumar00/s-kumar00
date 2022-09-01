@@ -18,10 +18,8 @@
 <a href="https://nodejs.org/en/docs/" > <img src="https://img.icons8.com/color/344/nodejs.png" width="50px" align='right'> </a> &nbsp;
 <a href="https://www.mongodb.com/docs/manual"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mongodb_original_wordmark_logo_icon_146425.png" width="40px" align='right'> </a>
  
-
- 
 </div>
-<br><br><br>
+<br><br><br><br><br><br>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height=50px> </h2>
 
