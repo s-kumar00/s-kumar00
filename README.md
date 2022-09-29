@@ -29,13 +29,13 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height=50px> </h2>
 
-<h3>Social Links: </h3>
-<a href = 'https://www.linkedin.com/in/sikandar-kumar-b1a961223/' target="_blank"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp;
-<a href="https://www.facebook.com/sikandar.raj.986/" target="_blank"> <img align="center" src="https://img.icons8.com/fluency/344/facebook-new.png" width="40px"> </a> &nbsp;
-<a href = 'https://www.instagram.com/sikku_a6/' target="_blank"> <img width = '40px' align= 'center' src="https://img.icons8.com/fluency/344/instagram-new.png"/></a> &nbsp;
- <a href = 'https://www.instagram.com/sikku_a6/' target="_blank"> <img width = '30px' align= 'center' src=" https://academicwritingforstudents.com/wp-content/uploads/2020/12/MERN-stack.png"/></a> 
+<h3 align="right">Social Links: </h3>
+<a href = 'https://www.linkedin.com/in/sikandar-kumar-b1a961223/' target="_blank"> <img width = '32px' align= 'right' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp;
+<a href="https://www.facebook.com/sikandar.raj.986/" target="_blank"> <img align="right" src="https://img.icons8.com/fluency/344/facebook-new.png" width="40px"> </a> &nbsp;
+<a href = 'https://www.instagram.com/sikku_a6/' target="_blank"> <img width = '40px' align= 'right' src="https://img.icons8.com/fluency/344/instagram-new.png"/></a> &nbsp;
+ <a href = 'https://www.instagram.com/sikku_a6/' target="_blank"> <img width = '30px' align= 'right' src=" https://academicwritingforstudents.com/wp-content/uploads/2020/12/MERN-stack.png"/></a> 
 
-<img width="15%" padding-right="30%"  src="https://i.pinimg.com/originals/8c/32/18/8c321810094b719e3ecb44d7b402e5db.gif"/>&nbsp; &nbsp;
+<img width="15%" align="left"  src="https://i.pinimg.com/originals/8c/32/18/8c321810094b719e3ecb44d7b402e5db.gif"/>&nbsp; &nbsp;
 <h3 align="right">Coding Platform Links: </h3>
 <a href = 'https://leetcode.com/sikandarsahilkumar/' target="_blank"> <img width = '32px' align= 'right' src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/141px-LeetCode_logo_white_no_text.svg.png?20200120234911"/></a> &nbsp;
 <a href = "https://www.hackerrank.com/sikandarsahilku1" target="_blank"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="45px"></a>
