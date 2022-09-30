@@ -29,7 +29,7 @@
 <a href = 'https://www.linkedin.com/in/sikandar-kumar-b1a961223/' target="_blank"> <img width = '32px' align= 'right' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp;
 <a href="https://www.facebook.com/sikandar.raj.986/" target="_blank"> <img align="right" src="https://img.icons8.com/fluency/344/facebook-new.png" width="40px"> </a> &nbsp;
 <a href = 'https://www.instagram.com/sikku_a6/' target="_blank"> <img width = '40px' align= 'right' src="https://img.icons8.com/fluency/344/instagram-new.png"/></a> &nbsp;
- <a href = 'https://www.instagram.com/sikku_a6/' target="_blank"> <img width = '30px' align= 'right' src=" https://academicwritingforstudents.com/wp-content/uploads/2020/12/MERN-stack.png"/></a> 
+
 
 <img width="30%" height="40%"  align="left"  src="https://i.pinimg.com/originals/8c/32/18/8c321810094b719e3ecb44d7b402e5db.gif"/>&nbsp; &nbsp;
 <h3 align="right">Coding Platform Links: </h3>
