@@ -1,5 +1,5 @@
 
-## Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>!, I am Sikandar 👨‍🎓
+## Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>!, I am Sikandar 👨‍🎓<img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="40px" height="40px">
 
 <div style="width: 100%; height: 50vh; overflow: hidden;">
   <img style="width: 100%; height: auto;" alt="GIF" src="./assets/pik.png" />
