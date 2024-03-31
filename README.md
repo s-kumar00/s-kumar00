@@ -6,9 +6,24 @@
   
   </div>
   <p>&nbsp;</p>
+
+<div align="center">
+ 
+ 
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/s-kumar00)
+[![Linkedin Badge](https://img.shields.io/badge/-Sikandar%20Kumar-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/hackcoderr/)](https://www.linkedin.com/in/sikandar-kumar-b1a961223/) 
+[![GitHub followers](https://img.shields.io/github/followers/s-kumar00?label=Follow&style=social)](https://github.com/hackcoderr/?tab=follow)
+[![Instagram Badge](https://img.shields.io/badge/-sikku-blue?style=social&logo=Instagram&link=https://www.instagram.com/sikku_a6/)](https://www.instagram.com/sikku_a6/) 
+
+
+</div> 
+
+
+
   
 <!--- Skills --->
 <h2> Skills & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+
 
 <div>
  <a href= 'https://docs.microsoft.com/en-us/cpp/c-language/?view=msvc-170' target="_blank"> <img width ='40px' height='40px' align= 'right' src ='https://th.bing.com/th/id/R.85af98e96c6edbee0c7a69afe502b20a?rik=9tAtOTG8TQSq1Q&riu=http%3a%2f%2fpngimg.com%2fuploads%2fletter_c%2fletter_c_PNG22.png&ehk=LiVjyf44Il9Q6Wez9JeKr6RHXf7vRDuJMHXGjZ%2bjwR8%3d&risl=&pid=ImgRaw&r=0'> </a> &nbsp;
