@@ -1,9 +1,12 @@
-<!-- ![68747470733a2f2f7777772e6c6561726e75706f6e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f4032782d426c6f672d4d756c74696d6f64616c2d4c6561726e696e672d416e696d6174696f6e2e676966](https://blog.commlabindia.com/wp-content/uploads/2019/07/animated-gifs-corporate-training.gif) -->
 
-![68747470733a2f2f7777772e6c6561726e75706f6e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f4032782d426c6f672d4d756c74696d6f64616c2d4c6561726e696e672d416e696d6174696f6e2e676966](https://blog.commlabindia.com/wp-content/uploads/2019/07/animated-gifs-corporate-training.gif)
-<h1 align="center">Hi <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="40px" height="40px">, I'm Sikandar Kumar</h1>
+## Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>!, I am Sikandar 👨‍🎓
 
-
+<div>
+  <img align="left" alt="GIF" src="./assets/Header.png" />
+  
+  </div>
+  <p>&nbsp;</p>
+  
 <!--- Skills --->
 <h2> Skills & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
