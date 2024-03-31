@@ -1,10 +1,9 @@
 
 ## Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>!, I am Sikandar 👨‍🎓
 
-<div>
-  <img align="left" alt="GIF" src="./assets/Header.png" />
-  
-  </div>
+<div style="width: 100%; height: 50vh; overflow: hidden;">
+  <img style="width: 100%; height: auto;" alt="GIF" src="./assets/Header.png" />
+</div>
   <p>&nbsp;</p>
 
 <div align="center">
