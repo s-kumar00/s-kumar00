@@ -16,7 +16,23 @@
 
 </div> 
 
+
+
+<!--About Me-->
+## About Me ✍
+<div>
+ <p>
+  <img width="240" height="240" align='right' src="https://i.pinimg.com/originals/8c/32/18/8c321810094b719e3ecb44d7b402e5db.gif"> 
+</p>
   
+-   👋 Hi, this is [@Sikandar-kumar](https://github.com/s-kumar00) a curious person 👀, Who wants to know every bit of **DevOps** and **Problem Solving**.I am keen to learn new things every day and passionate about exploring the latest technologies from a learning perspective, and always looking forward to migrating them and passionate about understanding the core concepts behind different popular Technological Fields as well.
+-   👨 I'm a student of National Institute of technology, Warangal [2021 - 2024].
+-   🌱 I’m passionate in full-stack web developer with a knack for building robust web applications using MERN Tech with keep a bit knowledge about data science and analyst as well.
+-   😎 I am also proficient in python, C++, C and solved more than 1500+ DSA problem.
+
+</div>
+
+ 
 <!--- Skills --->
 <h2> Skills & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
