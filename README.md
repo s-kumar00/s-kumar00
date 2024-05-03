@@ -34,11 +34,13 @@
 
  
 
-
+<!--About Me-->
+## Technical Skills 🛠 
+<img align='left' src='https://github.com/hackcoderr/hackcoderr/blob/main/assets/about.png' width="240" height="230" >
 
 <!--footer-->
 
-##
+## Connect to me 🤝
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+916206573315) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
 
 
