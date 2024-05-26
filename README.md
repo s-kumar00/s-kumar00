@@ -36,9 +36,10 @@
 
 <!--About Me-->
 ## Technical Skills 🛠 
-<img align='left' src='https://github.com/hackcoderr/hackcoderr/blob/main/assets/about.png' width="240" height="230" >
+<img align='left' src='https://i.pinimg.com/originals/8c/32/18/8c321810094b719e3ecb44d7b402e5db.gif' width="240" height="200" >
 
-As we all know that, for a software developer technical skills are how much important. It always provide a unique gratitude and passion for any technical guy.As a  software developer, I have some technical skills, these are the following which helps to improve my skills day to day as well as I am also in a learning state and learning many tools and technologies.
+<p align='center'>
+As we all know that, <img align='right' src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNtMzRhcHRrMnVrdzVneTljOWthdmdrNHVyMXZiYWI0Ym9ncHBzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif'  width="240" height="200">for a software developer technical skills are how much important. It always provide a unique gratitude and passion for any technical guy.As a  software developer, I have some technical skills, these are the following which helps to improve my skills day to day as well as I am also in a learning state and learning many tools and technologies.</p>
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -64,6 +65,12 @@ As we all know that, for a software developer technical skills are how much impo
 <!--footer-->
 
 ## My Hobbies 🛠 
+
+<p>
+  <img width="150" height="100" align='left' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTY4ZGdjY3Fpeng5ODE3bHF2czFydzVzdGNweHllZWhndjhwb251eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"> 
+</p>
+
+Everyone should have a passion because it can enhance their quality of life and provide numerous benefits in addition to entertainment. You get a calming, relaxed feeling and your mental stress is reduced. Reading a wide variety of books is one of my hobbies as well. A few of the reasons I started writing are listed here. I also started writing to turn my pastime into a career.
 
 ## Connect to me 🤝
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+916206573315) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
