@@ -22,7 +22,7 @@
 ## About Me ✍
 <div>
  <p>
-  <img width="240" height="200" align='right' src="https://i.pinimg.com/originals/8c/32/18/8c321810094b719e3ecb44d7b402e5db.gif"> 
+  <img width="240" height="280" align='right' src="./assets/me.jpg"> 
 </p>
   
 -   👋 Hi, this is [@Sikandar-kumar](https://github.com/s-kumar00) a curious person 👀, Who wants to know every bit of **DevOps** and **Problem Solving**.I am keen to learn new things every day and passionate about exploring the latest technologies from a learning perspective, and always looking forward to migrating them and passionate about understanding the core concepts behind different popular Technological Fields as well.
@@ -66,11 +66,10 @@ As we all know that, <img align='right' src='https://media.giphy.com/media/v1.Y2
 
 ## My Hobbies 🛠 
 
-<p>
-  <img width="150" height="100" align='left' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTY4ZGdjY3Fpeng5ODE3bHF2czFydzVzdGNweHllZWhndjhwb251eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"> 
-</p>
-
+<div>
+  
 Everyone should have a passion because it can enhance their quality of life and provide numerous benefits in addition to entertainment. You get a calming, relaxed feeling and your mental stress is reduced. Reading a wide variety of books is one of my hobbies as well. A few of the reasons I started writing are listed here. I also started writing to turn my pastime into a career.
+
 
 ## Connect to me 🤝
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+916206573315) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
