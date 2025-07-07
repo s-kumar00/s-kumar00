@@ -22,7 +22,7 @@
 ## About Me ✍
 <div>
  <p>
-  <img width="240" height="280" align='right' src="./assets/me.jpg"> 
+  <img width="240" height="280" align='right' src="./assets/walpaper.jpg"> 
 </p>
   
 -   👋 Hi, this is [@Sikandar-kumar](https://github.com/s-kumar00) a curious person 👀, Who wants to know every bit of **DevOps** and **Problem Solving**.I am keen to learn new things every day and passionate about exploring the latest technologies from a learning perspective, and always looking forward to migrating them and passionate about understanding the core concepts behind different popular Technological Fields as well.
