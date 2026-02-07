@@ -25,10 +25,7 @@
   <img width="240" height="280" align='right' src="./assets/walpaper.jpg"> 
 </p>
   
--   👋 Hi, this is [@Sikandar-kumar](https://github.com/s-kumar00) a curious person 👀, Who wants to know every bit of **DevOps** and **Problem Solving**.I am keen to learn new things every day and passionate about exploring the latest technologies from a learning perspective, and always looking forward to migrating them and passionate about understanding the core concepts behind different popular Technological Fields as well.
--   👨 I'm a student of National Institute of technology, Warangal [2021 - 2024].
--   🌱 I’m passionate in full-stack web developer with a knack for building robust web applications using MERN Tech with keep a bit knowledge about data science and analyst as well.
--   😎 I am also proficient in C++, Python, C and solved more than 1500+ DSA problem.
+-   👋 Hi, this is [@Sikandar-kumar](https://github.com/s-kumar00) a curious person 👀, Who wants to learn new things every day and passionate about exploring the latest technologies from a learning perspective, and always looking forward to migrating them as well passionate about understanding the core concepts behind different popular Technological Fields as well.
 
 </div>
 
